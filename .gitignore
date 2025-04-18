@@ -1,3 +1,20 @@
+# personal choices
+
+.metadata/
+
+# ignore everything
+**
+
+# except...
+!**/
+!**/Src/
+!**/Src/**
+!**/Inc/
+!**/Inc/**
+
+# ignore this though...
+**/Debug**
+
 # Prerequisites
 *.d
 
